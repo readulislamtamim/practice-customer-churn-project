@@ -1,0 +1,10 @@
+# Virtual environment (never share this!)
+venv/
+env/
+.env
+
+# Python cache files (automatic temp files)
+__pycache__/
+*.pyc
+*.pyo
+
